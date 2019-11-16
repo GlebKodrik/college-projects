@@ -1,0 +1,12 @@
+X:\Коноплев\Дерево\Tree\Tree\bin\Debug\Tree.exe.config
+X:\Коноплев\Дерево\Tree\Tree\bin\Debug\Tree.exe
+X:\Коноплев\Дерево\Tree\Tree\bin\Debug\Tree.pdb
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.Form1.resources
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.gleb.resources
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.Properties.Resources.resources
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.csproj.GenerateResource.Cache
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.exe
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.pdb
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.dima.resources
+X:\Коноплев\Дерево\Tree\Tree\obj\Debug\Tree.van.resources

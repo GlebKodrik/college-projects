@@ -1,0 +1,9 @@
+X:\Коноплев\EXIT\Exit\Exit\bin\Debug\Exit.exe.config
+X:\Коноплев\EXIT\Exit\Exit\bin\Debug\Exit.exe
+X:\Коноплев\EXIT\Exit\Exit\bin\Debug\Exit.pdb
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.csprojResolveAssemblyReference.cache
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.Form1.resources
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.Properties.Resources.resources
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.csproj.GenerateResource.Cache
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.exe
+X:\Коноплев\EXIT\Exit\Exit\obj\Debug\Exit.pdb
